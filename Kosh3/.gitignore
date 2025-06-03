@@ -1,0 +1,29 @@
+# Android Studio
+*.iml
+.idea/
+.gradle/
+build/
+captures/
+.cxx/
+.externalNativeBuild/
+
+# Local configuration
+local.properties
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Signing files (don't ever commit keystore)
+*.jks
+
+# Kotlin build cache
+.kotlinc/
+
+# Jetpack Compose previews
+*.pb
+
+# Crash logs or profiling
+*.hprof
